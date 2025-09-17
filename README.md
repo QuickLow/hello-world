@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # hello-world
 
 uhuy
@@ -7,4 +5,4 @@ uhuy
 cihuy
 
 oi
->>>>>>> origin/main
+hiyah
